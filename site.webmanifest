@@ -1,0 +1,14 @@
+{
+  "name": "币安商城",
+  "short_name": "BNM",
+  "description": "⚠️⚠️⚠️CZ does not use WeChat. The highly active \"Binance Mall\" WeChat group and CZ are both fake Binance and fake CZ running promotional scams. Please remind each other and beware of fraud.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12161C",
+  "theme_color": "#12161C",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
